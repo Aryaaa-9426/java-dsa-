@@ -26,4 +26,4 @@ public static void main(String[] args) {
     System.out.println(isPalindrome(x));
 } else {
     System.out.println(is not Palindrome(x));
-}
+} 
