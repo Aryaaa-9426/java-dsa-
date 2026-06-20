@@ -1,12 +1,17 @@
 
 
  public class palindromenumber {
-    
-
+    public static void main(String[] args) {
+    int x=121;
+    if(isPalindrome(x)){
+    System.out.println("isPalindrome");
+} else {
+    System.out.println("is not Palindrome");
+ }}
   public static  boolean isPalindrome(int x) {
 
 
-        if (x<0){
+        if (x<0){ 
             return false;
         }
         int n=x;
@@ -16,14 +21,7 @@
             revnum =revnum*10+d;
             n=n/10;
         }
-        if (revnum==x){
-            return true;
-        }
-    }
-} 
-public static void main(String[] args) {
-    int x=121;
-    System.out.println(isPalindrome(x));
-} else {
-    System.out.println(is not Palindrome(x));
-} 
+        return x == revnum;
+  }
+ }
+

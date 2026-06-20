@@ -1,4 +1,11 @@
-class Solution {
+class poweroftwo {
+    public static void main(String[] args) {
+    int n=16;
+    if (isPowerOfTwo(n)) {
+    System.out.println("isPowerOfTwo(" + n + "): " + isPowerOfTwo(n));
+} else {
+    System.out.println(n + " is not a power of two.");
+}}
     public static boolean isPowerOfTwo(int n) {
         if (n<1){
             return false;
@@ -16,13 +23,5 @@ class Solution {
             }
          }
     }
-
-public static void main(String[] args) {
-    int n=16;
-    if (isPowerOfTwo(n)) {
-    System.out.println("isPowerOfTwo(" + n + "): " + isPowerOfTwo(n));
-} else {
-    System.out.println(n + " is not a power of two.");
-}
 }
 
