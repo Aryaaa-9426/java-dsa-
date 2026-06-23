@@ -1,7 +1,7 @@
-public class array_sum2 { 
+public class array_multiplication { 
     public static void main(String args[]) {
            int [] nums={ 4, 5, 7, 9, 10 } ;// example array
-           array_sum2 obj =new array_sum2();
+           array_multiplication obj =new array_multiplication();
            int result =obj.maxProduct(nums); 
            System.out.println ("result"+ result);
     }
