@@ -2,7 +2,7 @@ public class sortedarray {
     public static void main (String[] args){
         int[]nums1={1,3};
         int[]nums2={2};
-        double median =program.findMedianSortedArrays(nums1,nums2);
+        double median = program.findMedianSortedArrays(nums1,nums2);
         System.out.println("the median " +median);
     }
     public double findMedianSortedArrays(int[] nums1, int[] nums2) { 
