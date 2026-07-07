@@ -7,6 +7,7 @@ java dsa journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -32,4 +33,12 @@ java dsa journey
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
