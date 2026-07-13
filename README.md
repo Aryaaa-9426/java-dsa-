@@ -39,6 +39,7 @@ java dsa journey
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0009-palindrome-number) |
 ## Two Pointers
 |  |
