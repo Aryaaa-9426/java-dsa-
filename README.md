@@ -11,6 +11,7 @@ java dsa journey
 | [0011-container-with-most-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@ java dsa journey
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +54,7 @@ java dsa journey
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0242-valid-anagram) |
 ## String
