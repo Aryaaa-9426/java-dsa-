@@ -11,6 +11,7 @@ java dsa journey
 | [0011-container-with-most-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -47,6 +48,7 @@ java dsa journey
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
@@ -70,5 +72,14 @@ java dsa journey
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
