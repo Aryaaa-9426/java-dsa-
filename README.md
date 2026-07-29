@@ -16,6 +16,7 @@ java dsa journey
 | [0075-sort-colors](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -56,16 +57,19 @@ java dsa journey
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0179-largest-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
