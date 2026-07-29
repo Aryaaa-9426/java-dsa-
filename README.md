@@ -19,6 +19,7 @@ java dsa journey
 | [0217-contains-duplicate](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ java dsa journey
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ java dsa journey
 | [0075-sort-colors](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0242-valid-anagram) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
