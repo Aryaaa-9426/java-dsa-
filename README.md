@@ -19,6 +19,7 @@ java dsa journey
 | [0179-largest-number](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0704-binary-search) |
+| [1046-last-stone-weight](https://github.com/Aryaaa-9426/java-dsa-/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aryaaa-9426/java-dsa-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -89,4 +90,8 @@ java dsa journey
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Aryaaa-9426/java-dsa-/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
