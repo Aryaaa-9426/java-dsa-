@@ -70,6 +70,7 @@ java dsa journey
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
