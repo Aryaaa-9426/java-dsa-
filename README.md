@@ -48,6 +48,7 @@ java dsa journey
 | ------- |
 | [0007-reverse-integer](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0009-palindrome-number) |
+| [0292-nim-game](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0292-nim-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +97,24 @@ java dsa journey
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Aryaaa-9426/java-dsa-/tree/master/1046-last-stone-weight) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aryaaa-9426/java-dsa-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
